@@ -1,4 +1,4 @@
-Emmanuel Bassey BHU/19/04/02/0005
+#Emmanuel Bassey BHU/19/04/02/0005
 # Sum of two Numbers
 print("Sum of two Numbers")
 A = int(input("A: "))
